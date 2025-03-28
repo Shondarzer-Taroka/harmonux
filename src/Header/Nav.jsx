@@ -2,9 +2,11 @@ import React from 'react';
 import SearchInput from '../serchInp/SearchInput';
 
 
-const categories = ["electronics", "jewelry", "men's clothing", "women's clothing","mouse"];
+
 
 const Nav = () => {
+
+
     return (
         <div>
             <div className="navbar  bg-base-100 shadow-sm">
